@@ -29,7 +29,7 @@ export const projectsData = [
     ],
     role: "Full Stack Developer",
     code: "",
-    demo: "",
+    demo: "https://github.com/KiteMinimal/Stack_Wave",
   },
   {
     id: 2,
