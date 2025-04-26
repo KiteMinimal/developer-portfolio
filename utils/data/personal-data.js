@@ -13,5 +13,5 @@ export const rapersonalData = {
   stackOverflow: 'https://stackoverflow.com/users/29836568/mohammad-shoyeb',
   leetcode: "https://leetcode.com/u/Mohammad_Shoyeb/",
   devUsername: "KiteMinimal",
-  resume: "https://drive.google.com/file/d/1aKrHDTX_4B4DfXdhzQdxfmTnpbxN7G2R/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1aKrHDTX_4B4DfXdhzQdxfmTnpbxN7G2R/view?usp=drive_link",
 }
