@@ -1,4 +1,4 @@
-export const rapersonalData = {
+export const personalData = {
   name: "Mohammad Shoyeb",
   profile: '/profileImage.jpg',
   designation: "Full Stack Web Developer",
